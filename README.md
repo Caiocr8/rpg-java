@@ -1,7 +1,7 @@
 # 🗡️ Soul RPG
 
 <p align="center">
-  <img src="assets/logo.png" width="400" alt="Soul RPG Logo"/>
+  <img src="assets/rpg-soul.png" width="400" alt="Soul RPG Logo"/>
 </p>
 
 > Um RPG 2D em desenvolvimento feito com **Java + libGDX**, com foco em combate, inventário e progressão baseada em alma/energia arcana.
